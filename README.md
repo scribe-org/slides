@@ -6,9 +6,9 @@
 [![license](https://img.shields.io/github/license/scribe-org/slides.svg?label=%20)](LICENSE.txt)
 [![coc](https://img.shields.io/badge/Contributor%20Covenant-ff69b4.svg)](.github/CODE_OF_CONDUCT.md)
 
-### Presentations related to open source
+### Presentations related to Scribe projects
 
-This repo contains various presentations for open-source software related topics. The slides are created using [Slidev](https://github.com/slidevjs/slidev).
+This repo contains various presentations for Scribe community projects. The slides are created using [Slidev](https://github.com/slidevjs/slidev).
 
 Suggestions for how to improve the content of these slides are more than welcome! ✨ Edits will mainly be made in the corresponding `slides.md` file for each presentation. Please see the [contributing guide](CONTRIBUTING.md) if you'd like to help.
 
