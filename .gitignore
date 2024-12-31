@@ -1,0 +1,16 @@
+# System files
+.DS_Store
+
+# Node dependencies
+node_modules
+
+# Package manager lock files
+yarn.lock
+package-lock.json
+.lockfile
+
+# Build files
+*.local
+.vite-inspect
+.remote-assets
+components.d.ts
