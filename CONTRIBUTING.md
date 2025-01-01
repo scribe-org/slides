@@ -51,6 +51,7 @@ Slides is very open to contributions from people in the early stages of their co
 <details><summary>Slides tech docs</summary>
 <p>
 
+- [Slidev docs](https://sli.dev/guide/)
 - [Vue.js 3 docs](https://vuejs.org/guide/introduction.html)
 - [Vue docs on MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
 - [UnoCSS docs](https://unocss.dev/interactive/)
