@@ -25,20 +25,23 @@ git clone https://github.com/scribe-org/slides.git
 # git clone https://github.com/<your-username>/slides.git
 ```
 
-Setup [Prettier](https://prettier.io/) to format `slides.md` files via the top level [package.json](package.json) and [.prettierrc](.prettierrc) files via one of the commands below:
+Navigate to the project and install the dependencies for all presentations:
 
 ```bash
+cd slides
+
+# Based on your package manager:
 yarn install
 npm install
 pnpm install
 ```
 
-Then navigate to the slides you'd like to run and execute the `run dev` command for your package manager of choice:
+Build and open your slides of choice by navigating to its directory and executing the `run dev` command for your package manager:
 
 ```bash
 cd SLIDES_OF_CHOICE
 
-# Run one of the following commands to build and open the slides:
+# Based on your package manager:
 yarn run dev
 npm run dev
 pnpm run dev

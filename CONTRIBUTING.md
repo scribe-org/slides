@@ -111,22 +111,23 @@ git remote add upstream https://github.com/scribe-org/slides.git
 
 - Now, if you run `git remote -v` you should see two remote repositories named:
   - `origin` (forked repository)
-  - `upstream` (slides repository)
+  - `upstream` (Slides repository)
 
-3. Setup [Prettier](https://prettier.io/) to format `slides.md` files via the top level [package.json](package.json) and [.prettierrc](.prettierrc) files via one of the commands below:
+3. Install the dependencies for all presentations including making [Prettier](https://prettier.io/) format `slides.md` files via the top level [package.json](package.json) and [.prettierrc](.prettierrc) files:
 
 ```bash
+# Based on your package manager:
 yarn install
 npm install
 pnpm install
 ```
 
-4. Build your slides of choice by navigating to the slides you'd like to run and execute the `run dev` command for your package manager of choice:
+4. Build and open your slides of choice by navigating to its directory and executing the `run dev` command for your package manager:
 
 ```bash
 cd SLIDES_OF_CHOICE
 
-# Run one of the following commands to build and open the slides:
+# Based on your package manager:
 yarn run dev
 npm run dev
 pnpm run dev
