@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/scribe-org/slides"><img src="https://raw.githubusercontent.com/scribe-org/slides/main/.github/resources/SlidesLogoGitHubBanner.png" width=1024 alt="Slides logo"></a>
+  <a href="https://github.com/scribe-org/slides"><img src="https://raw.githubusercontent.com/scribe-org/slides/main/.github/resources/SlidesGitHubBanner.png" width=1024 alt="Slides logo"></a>
 </div>
 
 [![issues](https://img.shields.io/github/issues/scribe-org/slides?label=%20&logo=github)](https://github.com/scribe-org/slides/issues)
