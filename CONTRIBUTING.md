@@ -134,7 +134,7 @@ npm run dev
 pnpm run dev
 ```
 
-5. Once finished you can visit <http://localhost:3030> to view the slides. Follow the prompts in your terminal to close them or do other actions.
+5. Once finished you can visit <http://localhost:3000> to view the slides. Follow the prompts in your terminal to close them or do other actions.
 
 <a id="issues-"></a>
 
