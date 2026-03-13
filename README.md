@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 <div align="center">
   <a href="https://github.com/scribe-org/slides"><img src="https://raw.githubusercontent.com/scribe-org/slides/main/.github/resources/SlidesGitHubBanner.png" width=1024 alt="Slides logo"></a>
 </div>
@@ -12,7 +14,7 @@ This repo contains various presentations for Scribe community projects. The slid
 
 Suggestions for how to improve the content of these slides are more than welcome! ✨ Edits will mainly be made in the corresponding `slides.md` file for each presentation. Please see the [contributing guide](CONTRIBUTING.md) if you'd like to help.
 
-## **Contents**
+## Contents
 
 - WIP
 
@@ -48,3 +50,5 @@ pnpm run dev
 ```
 
 Once finished you can visit <http://localhost:3000> to view the slides. Follow the prompts in your terminal to close them or do other actions.
+
+<sub><a href="#top">Back to top.</a></sub>
