@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 # Contributing to Slides
 
 Thank you for contributing to Slides!
@@ -6,21 +8,17 @@ Please take a moment to review this document in order to make the contribution p
 
 Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open-source project. In return, and in accordance with this project's [code of conduct](.github/CODE_OF_CONDUCT.md), other contributors will reciprocate that respect in addressing your issue or assessing patches and features.
 
-<a id="contents"></a>
+## Contents
 
-## **Contents**
+- [Tech stack](#tech-stack)
+- [Learning the tech stack](#learning-the-tech-stack)
+- [Development environment](#development-environment)
+- [Issues](#issues)
+- [Bug reports](#bug-reports)
+- [Feature requests](#feature-requests)
+- [Pull requests](#pull-requests)
 
-- [Tech stack](#tech-stack-)
-- [Learning the tech stack](#learning-the-tech-)
-- [Development environment](#dev-env-)
-- [Issues](#issues-)
-- [Bug reports](#bug-reports-)
-- [Feature requests](#feature-requests-)
-- [Pull requests](#pull-requests-)
-
-<a id="tech-stack-"></a>
-
-## Tech Stack [`⇧`](#contents)
+## Tech Stack
 
 The following are the current technologies used in Slides:
 
@@ -31,9 +29,9 @@ The following are the current technologies used in Slides:
 > [!NOTE]
 > Those new to any frameworks or technologies who want to work on their skills are more than welcome to contribute!
 
-<a id="learning-the-tech-"></a>
+<sub><a href="#top">Back to top.</a></sub>
 
-## Learning the tech stack [`⇧`](#contents)
+## Learning the tech stack
 
 Slides is very open to contributions from people in the early stages of their coding journey! The following is a select list of documentation pages to help you understand the technologies we use.
 
@@ -59,9 +57,9 @@ Slides is very open to contributions from people in the early stages of their co
 </p>
 </details>
 
-<a id="dev-env-"></a>
+<sub><a href="#top">Back to top.</a></sub>
 
-## Development environment [`⇧`](#contents)
+## Development environment
 
 1. First and foremost, please see the suggested IDE setup in the dropdown below to make sure that your editor is ready for development.
 
@@ -136,17 +134,17 @@ pnpm run dev
 
 5. Once finished you can visit <http://localhost:3000> to view the slides. Follow the prompts in your terminal to close them or do other actions.
 
-<a id="issues-"></a>
+<sub><a href="#top">Back to top.</a></sub>
 
-## Issues [`⇧`](#contents)
+## Issues
 
 The [issue tracker for Slides](https://github.com/scribe-org/slides/issues) is the preferred channel for [bug reports](#bug-reports), [features requests](#feature-requests) and [submitting pull requests](#pull-requests).
 
 Be sure to check the [`-priority-`](https://github.com/scribe-org/slides/labels/-priority-) labels in the [issues](https://github.com/scribe-org/slides/issues) for those that are most important, as well as those marked [`good first issue`](https://github.com/scribe-org/slides/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) that are tailored for first time contributors.
 
-<a name="bug-reports"></a>
+<sub><a href="#top">Back to top.</a></sub>
 
-## Bug reports [`⇧`](#contents)
+## Bug reports
 
 A bug is a _demonstrable problem_ that is caused by the code in the repository. Good bug reports are extremely helpful — thank you!
 
@@ -170,15 +168,15 @@ To make the above steps easier, the Slides team asks that contributors report bu
 
 Again, thank you for your time in reporting issues!
 
-<a name="feature-requests-"></a>
+<sub><a href="#top">Back to top.</a></sub>
 
-## Feature requests [`⇧`](#contents)
+## Feature requests
 
 Feature requests are more than welcome! Please take a moment to find out whether your idea fits with the scope and aims of the project. When making a suggestion, provide as much detail and context as possible, and further make clear the degree to which you would like to contribute in its development. Feature requests are marked with the [`Feature`](https://github.com/scribe-org/slides/issues?q=is%3Aopen+is%3Aissue+type%3AFeature) type in the [issues](https://github.com/scribe-org/slides/issues).
 
-<a name="pull-requests-"></a>
+<sub><a href="#top">Back to top.</a></sub>
 
-## Pull requests [`⇧`](#contents)
+## Pull requests
 
 Good pull requests — patches, improvements and new features — are the foundation of our community making Slides. They should remain focused in scope and avoid containing unrelated commits. Note that all contributions to this project will be made under [the specified license](LICENSE.txt) and should follow the coding indentation and style standards (contact us if unsure).
 
@@ -243,3 +241,5 @@ When making a contribution, adhering to the [GitHub flow](https://docs.github.co
 7. [Open a Pull Request](https://help.github.com/articles/using-pull-requests/) with a clear title and description.
 
 Thank you in advance for your contributions!
+
+<sub><a href="#top">Back to top.</a></sub>
